@@ -35,11 +35,11 @@ function Header() {
         />
 
         <ul className="hidden space-x-4 md:flex">
-          <li className="headerLink">Home</li>
-          <li className="headerLink">TV Shows</li>
-          <li className="headerLink">Movies</li>
-          <li className="headerLink">New & Popular</li>
-          <li className="headerLink">My List</li>
+          <li className="headerLink">홈</li>
+          <li className="headerLink">TV 프로그램</li>
+          <li className="headerLink">영화</li>
+          <li className="headerLink">최신 등록 콘텐츠</li>
+          <li className="headerLink">내가 찜한 콘텐츠</li>
         </ul>
       </div>
       <div className="flex items-center space-x-4 text-sm font-light">
